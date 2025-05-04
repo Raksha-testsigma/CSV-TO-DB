@@ -7,3 +7,4 @@
 - `testdb` - Database.
 - `sa` - User
 - `password` - Password.
+![image](https://github.com/user-attachments/assets/fad3e283-2c72-4abf-9ca2-7e5d9d7a306c)
